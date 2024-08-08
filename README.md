@@ -1,0 +1,2 @@
+CR_paper.ipynb and Ad_paper.ipynb are the files jupyter notebook files cotaining the python codes used in building the models compared in our paper titled: Optimizing Rice Production Forecasting Through Integrating Multiple Linear Regression with Recursive Feature Elimination.
+The datasets used are named data_ad.csv for yield and climatic data from Adamawa state, Nigeria, and data_cross_river.csv for yield and climatic data from Cross River state, Nigeria
